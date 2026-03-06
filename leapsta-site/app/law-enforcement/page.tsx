@@ -1,14 +1,12 @@
 export default function Page() {
   return (
-    <main style={{ maxWidth: 1000, margin: "0 auto", padding: "40px 20px" }}>
-      <h1 style={{ fontSize: 34, fontWeight: 800, marginBottom: 10 }}>
-        Law Enforcement Training
+    <main style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
+      <h1 style={{ fontSize: "36px", fontWeight: 700, marginBottom: "12px" }}>
+        Law Enforcement Specialized Training
       </h1>
-      <p style={{ fontSize: 18, opacity: 0.85, lineHeight: 1.6 }}>
-        This page is live. Next step: add your program details, photos, and
-        any buttons/links you want.
+      <p style={{ fontSize: "18px", lineHeight: 1.6 }}>
+        Content coming soon.
       </p>
     </main>
   );
-}
 }
